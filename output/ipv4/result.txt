@@ -1,13 +1,12 @@
 🕘️更新时间,#genre#
-2025-11-16 18:19:56,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv1&q=cq
+2025-11-17 06:19:07,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv1&q=cq
 
 📺央视频道,#genre#
 CCTV-1,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv1&q=cq
 CCTV-1,http://171.116.216.113:10010/rtp/226.0.1.157:3086
 CCTV-4,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv4&q=cq
-CCTV-4,http://120.46.223.160/PHP/MG.php?id=608807416
+CCTV-4,http://120.46.223.160/PHP/MG.php?id=608807419
 CCTV-7,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv7&q=cq
-CCTV-7,http://120.46.223.160/PHP/MG.php?id=673168121
 CCTV-9,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv9&q=cq
 CCTV-10,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv10&q=cq
 CCTV-12,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv12&q=cq
@@ -52,7 +51,6 @@ CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
 CHC高清电影,rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.230.145/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226990/86128784.smil
-纬来电影,http://orz.jkun.cf/smt.php?id=videolandmovie
 靖天映画,https://cdn.iptv8k.top/dl/jrys.php?id=320&time=20240926215313&ip=111.229.253.40
 靖天戏剧,https://cdn.iptv8k.top/dl/jrys.php?id=318&time=20240926215313&ip=111.229.253.40
 经典电影,https://cdn.iptv8k.top/dl/jrys.php?id=396&time=20240926215313&ip=111.229.253.40
@@ -60,7 +58,6 @@ CHC高清电影,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226990/86128784
 星空卫视,https://cdn.iptv8k.top/dl/jrys.php?id=21&time=20240926215313&ip=111.229.253.40
 星空卫视,http://122.53.222.9:9981/stream/channelid/2084767267?profile=pass
 东森洋片,https://cdn.iptv8k.top/dl/jrys.php?id=232&time=20240926215313&ip=111.229.253.40
-东森洋片,http://orz.jkun.cf/smt.php?id=ettvwestern
 
 🎥咪咕直播,#genre#
 
@@ -69,8 +66,8 @@ CHC高清电影,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226990/86128784
 山东体育,https://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
 
 🪁动画频道,#genre#
-少儿动画,http://114.252.126.226:8899/hls/32/index.m3u8
 少儿动画,http://218.15.183.23:9901/tsfile/live/23045_1.m3u8
+少儿动画,http://114.252.126.226:8899/hls/32/index.m3u8
 少儿动画,rtsp://118.212.169.207:554/PLTV/88888888/224/3221227318/10000100000000060000000001945936_0.smil
 少儿动画,rtsp://115.153.245.70/PLTV/88888888/224/3221227006/86440922.smil
 少儿动画,rtsp://115.153.254.81/PLTV/88888888/224/3221227006/86440922.smil
@@ -89,9 +86,9 @@ CHC高清电影,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226990/86128784
 新动漫,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226973/86129004.smil
 新动漫,rtsp://115.153.233.154/PLTV/88888888/224/3221226973/86129004.smil
 CN卡通,https://cdn.iptv8k.top/dl/jrys.php?id=364&time=20240926215313&ip=111.229.253.40
+24H国漫热播,https://lunbo.freetv.top/yy/1353937086
 蜡笔小新,http://www.douzhicloud.site:35455/bilibili/30837590
 
 🎮游戏频道,#genre#
 游戏竞技,http://ygbh.site/php/bfgd.php?id=296
 射雕英雄传,http://www.douzhicloud.site:35455/huya/23824164
-射雕英雄传,http://live.nctv.top/huya.php?id=23824164
