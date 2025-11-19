@@ -1,9 +1,8 @@
 🕘️更新时间,#genre#
-2025-11-19 18:22:42,http://bxtv.3a.ink/migu.php?id=cctv1
+2025-11-20 06:20:04,http://bxtv.3a.ink/migu.php?id=cctv1
 
 📺央视频道,#genre#
 CCTV-1,http://bxtv.3a.ink/migu.php?id=cctv1
-CCTV-1,http://171.116.216.113:10010/rtp/226.0.1.157:3086
 CCTV-2,http://bxtv.3a.ink/migu.php?id=cctv2
 CCTV-3,http://bxtv.3a.ink/migu.php?id=cctv3
 CCTV-4,http://bxtv.3a.ink/migu.php?id=cctv4
@@ -20,7 +19,6 @@ CCTV-13,http://bxtv.3a.ink/migu.php?id=cctv13
 CCTV-14,http://bxtv.3a.ink/migu.php?id=cctv14
 CCTV-17,http://bxtv.3a.ink/migu.php?id=cctv17
 CETV-1,http://183.184.47.145:8001/rtp/226.0.2.181:9360
-CETV-1,http://171.116.216.113:10010/rtp/226.0.2.181:9360
 
 💰央视付费频道,#genre#
 
@@ -33,7 +31,6 @@ CETV-1,http://171.116.216.113:10010/rtp/226.0.2.181:9360
 🌊港·澳·台,#genre#
 翡翠台,https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40『线路08』
 凤凰中文,https://cdn.iptv8k.top/dl/jrys.php?id=19&time=20240926215313&ip=111.229.253.40
-凤凰香港,http://106.53.99.30/tv/hk.php?id=fhxg
 凤凰香港,https://cdn.iptv8k.top/dl/jrys.php?id=18&time=20240926215313&ip=111.229.253.40
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;amp;time=20240926215313&amp;amp;ip=111.229.253.40
@@ -44,7 +41,6 @@ Viutv,https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 三立新闻,https://cdn.iptv8k.top/dl/jrys.php?id=273&time=20240926215313&ip=111.229.253.40
 东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=221&amp;time=20240926215313&amp;ip=111.229.253.40
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40#rtmp://f13h.mine.nu/sat/tv331#rtmp://f13h.mine.nu/sat/tv331
-东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 东森电影,https://cdn.iptv8k.top/dl/jrys.php?id=231&time=20240926215313&ip=111.229.253.40
 Now华剧,http://iptv.4666888.xyz/iptv2A.php?id=84
 靖天资讯,https://cdn.iptv8k.top/dl/jrys.php?id=315&time=20240926215313&ip=111.229.253.40
