@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-11 18:25:45,http://183.220.107.138:4022/rtp/239.11.0.109:5140
+2025-12-12 06:22:03,http://183.220.107.138:4022/rtp/239.11.0.109:5140
 
 📺央视频道,#genre#
 CCTV-4,http://183.220.107.138:4022/rtp/239.11.0.109:5140
@@ -86,6 +86,5 @@ CN卡通,https://cdn.iptv8k.top/dl/jrys.php?id=364&time=20240926215313&ip=111.22
 🎮游戏频道,#genre#
 游戏竞技,http://ygbh.site/php/bfgd.php?id=296
 海看电竞,http://144.255.32.94:8288/rtp/239.21.1.135:5002
-射雕英雄传,http://huanqiuzhibo.cn/manifest/huya.php?id=23824164
-射雕英雄传,http://live.nctv.top/huya.php?id=23824164
 射雕英雄传,http://www.douzhicloud.site:35455/huya/23824164
+射雕英雄传,http://live.nctv.top/huya.php?id=23824164
