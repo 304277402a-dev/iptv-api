@@ -1,10 +1,9 @@
 🕘️更新时间,#genre#
-2026-06-24 07:09:57,http://www.negative.top:50000/rtp/233.50.200.109:5140
+2026-06-24 20:20:55,http://www.negative.top:50000/rtp/233.50.200.109:5140
 
 📺央视频道,#genre#
 CCTV-6,http://www.negative.top:50000/rtp/233.50.200.109:5140
 CCTV-9,https://live.264788.xyz/channel/cctv9?streamid=556ccb45c4511efcbc1ed351b4b5651a&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-CCTV-9,http://198.204.228.26/live/cctv9hd.m3u8
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 CCTV-13,http://pull-hls-f1.douyinliving.com/media/stream-696031215627010898/playlist.m3u8?keeptime=00093a80&wsSecret=1bebd13d7482ab1a6f4971ff549fa2e0&wsTime=6a349a1b&major_anchor_level=vip&s_anchor=1&arch_hrchy=s2&t_id=037-20260619092339689A6E65E32436425877-oeHxgW
 
@@ -12,14 +11,16 @@ CCTV-13,http://pull-hls-f1.douyinliving.com/media/stream-696031215627010898/play
 
 📡卫视频道,#genre#
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
-湖南卫视,http://192.151.150.154/live/hnwshd.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-北京卫视,http://198.204.228.26/live/bjwshd.m3u8
 黑龙江卫视,http://204.12.221.218:8181/3m1080p/hljws.m3u8
+东方卫视,http://222.90.21.30:9901/hls/20/index.m3u8
 甘肃卫视,http://192.151.150.154/live/gswshd.m3u8
 海南卫视,http://204.12.221.218:8181/3m1080p/lyws.m3u8
-河北卫视,http://204.12.221.218:8181/3m1080p/hews.m3u8
+海南卫视,http://www.negative.top:50000/rtp/233.50.200.165:5140
 辽宁卫视,http://204.12.221.218:8181/3m1080p/lnws.m3u8
+辽宁卫视,http://222.90.21.30:9901/hls/39/index.m3u8
+山东卫视,http://198.204.228.26/live/sdwshd.m3u8
+山东卫视,http://222.90.21.30:9901/hls/26/index.m3u8
 
 ☘️广东频道,#genre#
 
@@ -44,8 +45,9 @@ IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
 山东体育,http://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
 山东体育,https://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
 成都体育,http://222.212.84.190:54123/rtp/239.93.0.224:1281
-天津体育,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=tjtv5
 天津体育,http://38.75.136.137:98/gslb/dsdqpub/tjtv5.m3u8?auth=testpub
+天津体育,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=tjtv5
+天津体育,http://ak.cj022.com:10080/hls/6/index.m3u8
 
 🪁动画频道,#genre#
 少儿动画,rtsp://118.212.169.207:554/PLTV/88888888/224/3221227318/10000100000000060000000001945936_0.smil
